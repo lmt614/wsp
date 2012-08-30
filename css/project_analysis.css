@@ -35,7 +35,31 @@ h3 {
 	padding: 5px;
 }
 
+/*--Beginning of Table--*/
+table {
+	border-collapse: collapse;
+	border-radius 10px;
+	margin: 0 auto;
+}
 
+th {
+	border: 1px solid #333;
+	text-align: center;
+	background-color: #00303c; 
+	color: #fff;
+	padding: 0.8em;
+}
+	
+td {
+	border: 1px solid #333;
+	text-align: center;
+	padding: 0.5em;
+}
+
+.odd_row {
+	background-color: #c5e5ed;
+}
+/*--End of Table--*/
 
 
 
