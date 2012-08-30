@@ -1,10 +1,42 @@
 body {
 	max-width: 960px; /*960px*/ 
-	font-size: 100%; /*16px*/
 	margin-left: auto;
-	margin-right: auto;	
+	margin-right: auto;
+	font-color: #333;
+	line-height: 1.5;	
 }
 
 #wrapper {
+	max-width: 082.291666666667%; /*790px/960px*/
 	margin: 0 auto;
-}	
+	background: #fff;
+	border: 30px solid #00303c;	
+	border-radius: 10px;
+	padding: 001.518987341772%; /*12px/790px*/
+}
+
+h1 {
+	color: #00303c;
+	background: #c5e5ed;
+	height: 80px;
+	text-align: center;
+	line-height: 2.5;
+	padding: 12px;
+	border-radius: 10px;
+}
+
+h2 {
+	color: #64b0c4;
+	padding-top: 35px;
+}
+
+h3 {
+	color: #777;
+	padding: 5px;
+}
+
+
+
+
+
+
