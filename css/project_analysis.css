@@ -21,18 +21,18 @@ h1 {
 	height: 80px;
 	text-align: center;
 	line-height: 2.5;
-	padding: 12px;
+	padding: 001.518987341772%; /*12px/790px*/
 	border-radius: 10px;
 }
 
 h2 {
 	color: #64b0c4;
-	padding-top: 35px;
+	padding-top: 004.430379746835%; /*35px/790px*/
 }
 
 h3 {
 	color: #777;
-	padding: 5px;
+	padding: 000.632911392405%; /*5px/790px*/
 }
 
 /*--Beginning of Table--*/
