@@ -1,0 +1,58 @@
+/* Minimalist Reset 3 CSSresetr.com */
+* {
+	vertical-align: baseline;
+	font-weight: inherit;
+	font-family: inherit;
+	font-style: inherit;
+	font-size: 100%;
+	border: 0 none;
+	outline: 0;
+	padding: 0;
+	margin: 0;
+}
+/* End of Minimalist Reset 3 CSSresetr.com */
+
+body {
+	max-width: 960px; /*960px*/ 
+	margin-left: auto;
+	margin-right: auto;
+	font-color: #333;
+	line-height: 1.5;	
+}
+
+#wrapper {
+	max-width: 082.291666666667%; /*790px/960px*/
+	margin: 0 auto;
+	background: #fff;
+	border: 30px solid #333;	
+	border-radius: 10px;
+	padding: 001.518987341772%; /*12px/790px*/
+}
+
+h1 {
+	color: #fff;
+	font: "Lucinda Grande", Helvetica, sans-serif;
+	font-size: 28px;
+	background: #333;
+	height: 80px;
+	text-align: center;
+	line-height: 2.5;
+	padding: 001.518987341772%; /*12px/790px*/
+	border-radius: 10px;
+}
+
+h2 {
+	color: #000;
+	font: font: "Lucinda Grande", Helvetica, sans-serif;
+	font-size: 24px;
+	padding: 004.430379746835% 003.544303797468% 0 003.544303797468%;/*35px 28px 0 28px/790px*/
+}
+
+h3 {
+	color: #777;
+	padding: 000.632911392405%; /*5px/790px*/
+}
+
+
+
+
